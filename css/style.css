@@ -4,15 +4,25 @@
 .card-block{
 	color:purple;
 }
-.card-block-in-black{
-	color:darkblue; text-align: center;
-}
 .custom-nav{
 	background-color: #c9c6f2; 
 }
 body{
 	background-color: #f1d9f4;
 }
-.jumbotron{
-	background-color: #fffcf2;
+
+.profile-title, .profile-heading, .sub-title{font-family: 'Ubuntu', sans-serif}
+
+.profile-donation{font-family: 'Noto Sans', sans-serif;}
+
+p{font-family: 'Noto Sans', sans-serif;}
+
+.display-1{color: white; font-family: 'Mali', cursive;}
+
+.btn{background-color: purple; font-family: 'Noto Sans', sans-serif;}
+
+.puppy-bg{
+	background: url('../img/puppy.jpg');
+	background-size: cover; 
+	height: 550px;
 }
